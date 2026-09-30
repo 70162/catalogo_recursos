@@ -48,3 +48,6 @@ Instalar dependencias
 2. Consulta las bibliotecas instaladas.
 3. Genera requirements.txt a partir del entorno actual.
 4. Abre el archivo y verifica que ambas dependencias se encuentren registradas.
+
+Próximas mejoras:
+Más adelante se pueden agregar nuevas funciones al proyecto, como buscar recursos, agregar nuevos recursos y organizarlos por diferentes temas.
