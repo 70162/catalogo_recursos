@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Curso básico de Python",
+        "tipo": "Curso",
+        "tema": "Programación",
+        "nivel": "Básico",
+        "autor": "Python"
+    },
+    {
+        "nombre": "Introducción a la Inteligencia Artificial",
+        "tipo": "Artículo",
+        "tema": "Inteligencia Artificial",
+        "nivel": "Básico",
+        "autor": "Universidad de León"
+    }
+]
