@@ -12,5 +12,12 @@
         "tema": "Inteligencia Artificial",
         "nivel": "Básico",
         "autor": "Universidad de León"
+    },
+    {
+        "nombre": "Guía básica de redes",
+        "tipo": "Guía",
+        "tema": "Redes",
+        "nivel": "Básico",
+        "autor": "Universidad de León"
     }
 ]
