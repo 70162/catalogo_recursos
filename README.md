@@ -51,3 +51,11 @@ Instalar dependencias
 
 Próximas mejoras:
 Más adelante se pueden agregar nuevas funciones al proyecto, como buscar recursos, agregar nuevos recursos y organizarlos por diferentes temas.
+
+## Tipos de recursos
+
+- Artículos académicos
+- Libros
+- Documentación técnica
+- Cursos
+- Tutoriales
