@@ -7,3 +7,7 @@ Para tener los recursos más ordenados, se puede clasificarse de diferentes mane
 3.Nivel: saber si es para un nivel básico, intermedio o avanzado.
 
 4.Autor o fuente: saber quién hizo el recurso o de qué página se obtuvo.
+
+5. Actualidad de la información: se debe considerar la fecha de publicación o actualización del recurso.
+ 
+6.Confiabilidad de la fuente: se debe verificar que la información provenga de una institución, autor o plataforma confiable.
